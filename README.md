@@ -1,2 +1,2 @@
 # miquery
-application
+## This is a small office application platform.
